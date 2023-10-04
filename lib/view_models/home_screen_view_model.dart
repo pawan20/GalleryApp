@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_print
+
 import 'package:flutter/material.dart';
 import 'package:lennar_app/models/image_model.dart';
 import 'package:lennar_app/services/images_data_source_service.dart';
